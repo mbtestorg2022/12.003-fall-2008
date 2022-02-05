@@ -23,7 +23,22 @@ Hint: The specific heat of air, at constant volume, is 720 Joules/Kg.
 
 4\. Suppose that the Earth's rotation axis were normal to the Earth-Sun line. The solar flux, measured per unit area in a plane normal to the Earth-Sun line, is _S0_. By considering the solar flux incident on the latitude belt bounded by latitudes _(Ø, Ø + dØ)_, show that _F_, the 24-hr averaged flux per unit area of the Earth's surface, varies with latitude as,
 
-|  {{< br >}}{{< br >}} ![Earth's surface varies with latitude.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/exams/untitled_10.jpg) {{< br >}}{{< br >}}  | (1) 
+{{< tableopen >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+![Earth's surface varies with latitude.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/exams/untitled_10.jpg)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+(1)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Using this result, suppose that the atmosphere is completely transparent to solar radiation such that, separately at each latitude, the radiation budget can be represented by the single slab model shown in Fig. 2.7 of the text book. Determine how surface temperature varies with latitude.
 
