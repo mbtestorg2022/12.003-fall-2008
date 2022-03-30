@@ -13,7 +13,7 @@ The Thermal Wind Relation
 
 It is straightforward to obtain a steady, axially-symmetric circulation driven by radial temperature gradients in our laboratory tank, which provides an ideal opportunity to study the thermal wind relation.
 
-![thermal wind schematic](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thrmlwin.jpg)
+{{< resource "8dbd101c-2646-c968-c334-7364c2f633f4" >}}
 
 We fill the cylindrical tank with water to a depth of 15 cm, and rotate it very slowly - at no more than 0.3 f (or even less) in a cyclonic sense (anticlockwise looking down). At the center of the tank we place a 15 cm diameter tin can full of ice and water (and a few lumps of metal to prevent the can floating away). The cold sides of the can cool the water adjacent to it and induce a substantial radial temperature gradient.  The experiment is left for twenty minutes or so, for the circulation to develop.
 
@@ -21,7 +21,7 @@ First we drop in a few permanganate crystals which streak the vertical column an
 
 Green dye is injected and evolves in to a tightly wound spiral.
 
-![green dye added ](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC005F1.jpg)
+{{< resource "58c04505-5d1d-3d40-3711-d50a73b62b19" >}}
 
 In this circulation, relatively warm water rises at the outer wall, moves inward in the upper layers (more-or-less conserving angular momentum as it does so), rubs against the cold inner wall, and becomes cold. This is how the fluid carries heat to offset cooling at the 'pole' induced by melting ice.
 
@@ -31,4 +31,4 @@ The permanganate crystals on the bottom give an indication of the flow in the bo
 
 *   [Experiment VIII: Hadley Circulation]({{< baseurl >}}/resources/experiment-viii-hadley-circulation)
 
-![experiment top view](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem77.jpg)
+{{< resource "16f5fa60-0084-0578-596e-ad7ce6b82998" >}}

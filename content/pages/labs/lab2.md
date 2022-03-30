@@ -16,11 +16,11 @@ Using the hot and cold water supply in the laboratory we can achieve a temperatu
 
 Heating at the base triggers convection from the bottom. It is supplied by a heating pad, whose power can be controlled with a transformer.
 
-![convection experiment](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfd_ii1.gif)
+{{< resource "2b58236d-70ec-6d6a-e855-15da9b570361" >}}
 
 The motion of the fluid is made visible by sprinkling a VERY SMALL amount of potassium permanganate evenly over the base of the tank after the stable stratification has been set up. After switching on the heating at the base, thermals will be seen to rise from the base, overshoot the level at which they have zero buoyancy (the level where the T of the thermals is equal to that the environment, Te), and sink back. Successive thermals rise higher as the layer deepens.
 
-![Convection in to a stratified layer heated from below](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfd_ii2.gif) 
+{{< resource "f1d31e6b-eba5-8251-6eb6-6429a6b44f39" >}} 
 
 Convection into a stratified layer heated from below:
 
@@ -28,7 +28,7 @@ Convection into a stratified layer heated from below:
 
 *   [Experiment II: Stratified Convection]({{< baseurl >}}/resources/experiment-ii-stratified-convection)
 
-![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem269.jpg)![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/wpe29321.jpg)
+{{< resource "fa0dc7c0-b19b-5a8e-8dab-7cfb77be10fe" >}}{{< resource "dc972f9c-fad5-3698-81ed-82c599cd1184" >}}
 
 On the left above we see the convection layer early in the experiment; on the right some time later. The convection 'burrows' into the stratified layer, eroding it to create a well-mixed convection layer. Notice the thermals rising up and brushing the stratified layer above, generating gravity waves on the inversion.
 
@@ -36,6 +36,6 @@ Convection carries heat from the heating pad into the body of the fluid, distrib
 
 Convection into an unstratified layer heated from below:
 
-![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem120.jpg)![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem123.jpg)
+{{< resource "2f363f19-b351-c258-691b-0c0a703957a4" >}}{{< resource "30f38902-f09c-c348-45fd-d347c36da192" >}}
 
 If the initial fluid is unstratified, then buoyant fluid rises from the heating pad right up to the free surface. There is no ambient stratification to constrain vertical motion. The picture on the right zooms in on the convective plumes.

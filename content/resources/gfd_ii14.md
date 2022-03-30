@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 resourcetype: Image
 title: gfd_ii14
 uid: 3b475642-e5d0-6b94-71c4-f13d8dfa52ff

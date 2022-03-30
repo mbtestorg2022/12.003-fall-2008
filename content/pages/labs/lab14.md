@@ -14,13 +14,13 @@ We set a tank of water rotating at speed f = 2 (~ 10 rpm), as sketched in the di
 
 Dyed water at the same temperature is then slowly introduced in to the top right-hand corner of the tank through a hose (fitted with a diffuser) at a rate 100ml/minute. The photograph on the right below shows the funnel device used to introduce the dyed (red) fluid.  The funnel is in the rotating frame; a reservoir of dyed fluid stands on the top of ladder in the laboratory (non-rotating) frame.
 
-![lab 14 schematic 1](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/GFD5.jpg) ![experiment setup](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC002F2.jpg)
+{{< resource "47abcac0-30b0-45cf-3579-665c68e1213c" >}} {{< resource "1619321f-9df7-918a-ab77-a1ab92650ef3" >}}
 
 The rotating tank fills up with water in a manner that is very different from that in which a non-rotating tank would fill up. Instead of the dyed fluid 'diffusing' in to the interior, it runs along the 'northern' boundary of the tank and feeds in to a 'western' boundary current, as sketched in the diagram above.
 
 Have a look at the sequence of the pictures below illustrating how the tank fills up with water.
 
-![lab 14 image 1](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/32.jpg) ![lab 14 image 2](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/7.jpg) ![lab 14 image 3](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/91.jpg)
+{{< resource "5d7ed50a-128a-b379-0907-01da8f0e3016" >}} {{< resource "22d299b6-81c1-59dc-695f-79e5cf1cf8d4" >}} {{< resource "4c15e6fe-317f-d1cb-0eea-cbf191f832d0" >}}
 
 **See the movie:**
 
@@ -33,11 +33,11 @@ Let 'h' be the depth of the fluid, α the slope of the bottom, 'L' the side of t
 
 The free surface of the water rises at a rate given by:
 
-![dh/dt = S/L^2](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfdxiv1.gif)
+{{< resource "bc657536-e12d-8748-69f6-bf873f5f1b6e" >}}
 
 Because the fluid is rotating and is in steady, slow, frictionless motion, then, by the Taylor-Proudman theorem, columns must remain of constant length.  Hence Taylor columns in the interior of the tank must move toward the shallow end of the tank to retain their length as the free surface rises. The northward speed at which they move is given by:
 
-![V= 1/alpha * S/L^2](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfdxiv2.gif)
+{{< resource "e914d68f-ee42-895d-7887-0484ef3342df" >}}
 
 It is useful to estimate typical interior speeds from the formulae above.  Typical experimental set-ups have α = 0.2, L= 60 cm, Ω= 10 rpm and S= 100ml/minute.
 

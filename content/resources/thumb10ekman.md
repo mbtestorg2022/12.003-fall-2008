@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 resourcetype: Image
 title: thumb10ekman
 uid: 0cde7d94-0e1b-0df8-673c-8b2ad7d05e53

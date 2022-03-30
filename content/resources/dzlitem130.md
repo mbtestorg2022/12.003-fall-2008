@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 resourcetype: Image
 title: DzlItem130
 uid: 5ad5ac43-aa56-ec47-afa6-6f22c047ffa2

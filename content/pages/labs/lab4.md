@@ -10,7 +10,7 @@ Experiments: [0]({{< baseurl >}}/pages/labs/lab1) | [I]({{< baseurl >}}/pages/la
 
 If our cylindrical tank is filled with water, set turning, and left until it comes into solid body rotation, then the free-surface of the water will not be flat - it will be depressed in the middle and rise up slightly to its highest point along the rim of the tank (see fig. below). 
 
-![parabolic schematic](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/parabolic.jpg)
+{{< resource "d21c95b0-d7d7-25d2-d595-3c26c8ffd8ba" >}}
 
 The shape of the free surface is given by
 
@@ -26,8 +26,8 @@ a small fraction of the depth to which the tank is typically filled.
 
 It is very instructive to make the surface of our turntable parabolic. This can readily be achieved by filling a large flat-bottomed pan with resin on a turntable and letting the resin harden while the turntable is left running (10 rpm works well) for several hours ([see instructions]({{< baseurl >}}/pages/labs/parabolic)). The resulting parabolic surface can then be polished to create a low friction surface.
 
-![using the turntable](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC001S.jpg)
+{{< resource "7657d236-b518-b2b4-c2cb-400d7f4d7ec4" >}}
 
 Place a ball-bearing on the rotating parabolic surface - make sure that the table is rotating at the same speed as was used to create the parabola! Note that it does not fall in to the center, but instead finds a state of rest in which the component of gravitational force resolved along the parabolic surface is exactly balanced by the outward-directed horizontal component of the centrifugal force.
 
-![parabola ](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/parabola.jpg)
+{{< resource "a2c75159-80b4-bd88-4a7c-533608741ccc" >}}

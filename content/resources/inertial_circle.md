@@ -7,6 +7,7 @@ description: 'Detailed description of lab experiment GFD VI: Inertial Circles - 
   of frames of reference and the Coriolis force.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/fe5b07f06f466a80406b55fb96442a0f_inertial_circle.pdf
 file_type: application/pdf
+parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 resourcetype: Document
 title: 'GFD VI: Inertial Circles - Visualizing the Coriolis Force'
 uid: fe5b07f0-6f46-6a80-406b-55fb96442a0f

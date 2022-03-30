@@ -12,7 +12,7 @@ We take two tanks (of diameter roughly 50 cm) and place one on a rotating table 
 
 Here's a shot of the rotating tank some minutes after the coloring has been introduced. It's also fun to use two different colors and watch the interleaving of fluid.
 
-![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/taylor_expt.jpg)
+{{< resource "072f08e8-28e7-19c2-7f76-5171e8c90f87" >}}
 
 Non-Rotating
 ------------
@@ -23,7 +23,7 @@ In the non-rotating tank the dye disperses much as we might intuitively expect -
 
 *   [Experiment 0: Non-Rotating Fluids]({{< baseurl >}}/resources/experiment-0-non-rotating-fluids)
 
-![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem104.jpg)![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem105.jpg)
+{{< resource "e0666c6c-8532-3f3e-a16c-841c02f09366" >}}{{< resource "4b4f01d7-994c-25cc-9938-6ebe1bf51989" >}}
 
 Rotating
 --------
@@ -36,13 +36,13 @@ In the rotating body of water, by contrast, something glorious happens - have a 
 
 Note that the movie is recorded in the frame of reference of the tank - i.e. by a camera mounted above the rotating table, rotating at exactly the same speed.
 
-![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem103.jpg)![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem102.jpg)
+{{< resource "bacc63ca-dd66-50ea-64f4-80a7de2b38f2" >}}{{< resource "7157ba6b-2119-f584-df95-2c82851be848" >}}
 
 From the movie loop of the dye in the rotating frame try and estimate the Rossby number - see the introduction and chapter 6 of our notes. Is the Rossby number large or small?
 
 Have a look at more Taylor columns here:
 
-![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/6.jpg)![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/9.jpg)
+{{< resource "9b6f9816-a8c4-132b-7f99-1361b2f17957" >}}{{< resource "6e64472a-2d41-e342-551f-dac0fcbf7441" >}}
 
 **See the movie**
 

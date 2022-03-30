@@ -12,11 +12,11 @@ Here we study the mechanism by which the wind stress drives ocean circulation. W
 
 We rotate a disc at rate ω on the surface of a cylindrical tank of water (in fact, the disc is just submerged beneath the surface).  The tank of water and the disc driving it is then rotated at rate Ω using our turntable and left for about 30 minutes to come to equilibrium. Once equilibrium is reached, dye crystals are dropped in to the water to trace the motions.  The whole system is viewed from above in the rotating frame. Mirrors can be used to capture a side view, as shown below.
 
-![lab 12 schematic](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/winddriv.jpg) ![experiment setup](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC007F1.jpg)
+{{< resource "80771c7f-8be1-2fd3-7218-a273dff54ba2" >}} {{< resource "c6ab9dfe-8141-b98c-c5df-6004782f54e1" >}}
 
 Have a look at the pictures below showing the experiment in action.
 
-![lab 12 view 1](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC002F1.jpg)![lab 12 view 2](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC005F2.jpg)
+{{< resource "9d264064-0abb-1836-378b-3669e6779b52" >}}{{< resource "039fe263-b3b3-c906-7108-a1cab0a2dfaf" >}}
 
 Note the following:
 
@@ -24,10 +24,10 @@ Note the following:
 2.  Near the bottom boundary, there is inflow when ω has the same sign as Ω  (cyclonic flow) and outflow when ω has the opposite sign (anticyclonic) - think about our Ekman layer experiment, [GFD X]({{< baseurl >}}/pages/labs/lab9).
 3.  There is also an Ekman layer at the top (beneath the rotating lid), in which the radial component of the flow is opposite to that at the bottom boundary. (Can you figure out why? Can you picture the overall meridional (radial/vertical) circulation in the tank?)  To help, have a look at the pictures below showing dyed water upwelling beneath a cyclonically rotating disc:
 
-![lab 12 view 3](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC003F1.jpg)![lab 12 view 4](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC004F3.jpg)
+{{< resource "d3b66675-4187-092c-f263-84bcc6ca14cf" >}}{{< resource "6e50c7c1-627c-e317-ba82-0316bd71aa66" >}}
 
 **See the movie:** 
 
 *   [Experiment XII: Ekman Pumping and Suction]({{< baseurl >}}/resources/experiment-xii-ekman-pumping-and-suction)
 
-![lab 12 top view](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/000634018.jpg)
+{{< resource "8de5f543-1c6b-31e8-7dc1-4797bf729a6d" >}}

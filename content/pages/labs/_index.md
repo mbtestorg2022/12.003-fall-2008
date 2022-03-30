@@ -24,60 +24,60 @@ The Lab Experiments are linked below.  Please note that Lab Experiment IX was s
 
 [GFD0: Rotation stiffens fluids  
   
-![Taylor Columns revealed by food coloring in a rotating tank.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb0rotating.jpg)]({{< baseurl >}}/pages/labs/lab1)
+{{< resource "2c13a25c-59c8-4f0a-d155-a85e970908d7" >}}]({{< baseurl >}}/pages/labs/lab1)
 
 [GFDI: Cloud formation on adiabatic expansion  
   
-![Cloud formation on adiabatic expansion.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb1cloud.jpg)]({{< baseurl >}}/pages/labs/lab1-07)
+{{< resource "681e318c-376a-6871-413f-6b59a8581ca8" >}}]({{< baseurl >}}/pages/labs/lab1-07)
 
 [GFDII: Convection  
   
-![Convection due to heating from below.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb2convection.jpg)]({{< baseurl >}}/pages/labs/lab2)
+{{< resource "0783f242-2e2d-a46b-5771-8965a7fa294d" >}}]({{< baseurl >}}/pages/labs/lab2)
 
 [GFDIII: Radial inflow  
   
-![Radial inflow.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb3radial.JPG)]({{< baseurl >}}/pages/labs/lab3)
+{{< resource "8f9c6296-c5d5-e496-18f7-d118cabae515" >}}]({{< baseurl >}}/pages/labs/lab3)
 
 [GFDIV: Parabolic table  
   
-![Parabolic table.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb4parabolic.JPG)]({{< baseurl >}}/pages/labs/lab4)
+{{< resource "3ae23e3a-4cd7-4e54-dae0-73935f9db0d8" >}}]({{< baseurl >}}/pages/labs/lab4)
 
 [GFDV: Inertial circles  
   
-![Visualizing the Coriolis effect.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb5inertial.jpg)]({{< baseurl >}}/pages/labs/lab5)
+{{< resource "d199022a-0672-bbbf-be9f-9a05ad00cc21" >}}]({{< baseurl >}}/pages/labs/lab5)
 
 [GFDVI: Perrot's bathtub experiment  
   
-![Experiment on Earth's rotation.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb6perrot.JPG)]({{< baseurl >}}/pages/labs/lab10)
+{{< resource "87d3555d-21cf-795e-f210-cfd2c399b744" >}}]({{< baseurl >}}/pages/labs/lab10)
 
 [GFDVII: Taylor columns  
   
-![Taylor Columns over a bump.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb7taylorcol.gif)]({{< baseurl >}}/pages/labs/lab6)
+{{< resource "bc7a9550-858f-dc62-1b6c-92119ac5f59e" >}}]({{< baseurl >}}/pages/labs/lab6)
 
 [GFDVIII: Thermal wind and Hadley circulation  
   
-![Thermal wind and the Hadley circulation.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb8thermalwind.jpg)]({{< baseurl >}}/pages/labs/lab7)
+{{< resource "709a75c9-05e8-e4c6-ae21-014491aabc57" >}}]({{< baseurl >}}/pages/labs/lab7)
 
 [GFDIX: Slope of a frontal surface  
   
-![Slope of a frontal surface.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb9fronts.jpg)]({{< baseurl >}}/pages/labs/lab8)
+{{< resource "9508e916-332e-f0a8-72d3-036686fa9db5" >}}]({{< baseurl >}}/pages/labs/lab8)
 
 [GFDX: Ekman layers  
   
-![Spin down of a cyclone.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb10ekman.jpg)]({{< baseurl >}}/pages/labs/lab9)
+{{< resource "0cde7d94-0e1b-0df8-673c-8b2ad7d05e53" >}}]({{< baseurl >}}/pages/labs/lab9)
 
 [GFDXI: Atmospheric general circulation  
   
-![General circulation of the atmosphere.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb11generalcirc.JPG)]({{< baseurl >}}/pages/labs/lab11)
+{{< resource "545b5bbf-a6df-7692-394a-977c4647ae82" >}}]({{< baseurl >}}/pages/labs/lab11)
 
 [GFDXII: Ekman pumping and suction  
   
-![Stress-driven flow.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb12stressdriven.JPG)]({{< baseurl >}}/pages/labs/lab12)
+{{< resource "d34a6219-6a34-466e-4067-f91b8ef43878" >}}]({{< baseurl >}}/pages/labs/lab12)
 
 [GFDXIII: Ocean gyres  
   
-![Ocean gyres.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb13winddriven.jpg)]({{< baseurl >}}/pages/labs/lab13)
+{{< resource "7125c902-06e8-9a9c-ef7e-90025def4be8" >}}]({{< baseurl >}}/pages/labs/lab13)
 
 [GFDXIV: Thermohaline circulation  
   
-![Stommel-Arons.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/thumb14thermohaline.JPG)]({{< baseurl >}}/pages/labs/lab14)
+{{< resource "beaff72c-97c1-37a7-4929-f5cfc523a70b" >}}]({{< baseurl >}}/pages/labs/lab14)

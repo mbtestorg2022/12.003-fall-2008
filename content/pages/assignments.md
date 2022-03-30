@@ -91,10 +91,10 @@ Due in Ses #16
 
 Geostrophic balance ([PDF]({{< baseurl >}}/resources/homework6))
 
-\- pucks\_on\_ice\_script.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/assignments/pucks_on_ice_script.m))  
-\- pucks\_on\_ice.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/assignments/pucks_on_ice.m))  
-\- draw\_fig2.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/assignments/draw_fig2.m))  
-\- deriv.m ([M](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/assignments/deriv.m))
+\- pucks\_on\_ice\_script.m ({{% resource_link "68026f6e-36a8-9af2-830a-aa75bd8d42fa" "M" %}})  
+\- pucks\_on\_ice.m ({{% resource_link "8c1ae277-5239-3b76-86e8-730f99d24db8" "M" %}})  
+\- draw\_fig2.m ({{% resource_link "407ca09e-5b59-ab1e-8815-5a5b9d27bfdd" "M" %}})  
+\- deriv.m ({{% resource_link "af8b3224-8eea-80a7-afd9-55ace26eb859" "M" %}})
 
 
 {{< tdclose >}}

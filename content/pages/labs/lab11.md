@@ -15,7 +15,7 @@ The purpose of this experiment is to observe &grave;Hadley' and &grave;eddying' 
 
 'Hadley' and 'eddying' turbulent regimes can be set up in the tank by adjusting the rotation rate, Ω, of the tank - Ω can be ranged from zero to 10 rpm.
 
-![experiment schematic](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/annulus.jpg)
+{{< resource "16d001d7-753b-dbd1-ddcf-3b3e6e5c266c" >}}
 
 We observe the following:
 
@@ -26,8 +26,8 @@ We observe the following:
 
 Here is a sequence of images showing the evolution of the flow in the fully turbulent regime:
 
-![start of experiment](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC002F.jpg)![sometime later](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC008F1.jpg)  
-![screenshot 2](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/5.jpg)![screen shot 3](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/9.jpg)
+{{< resource "237646ec-9d32-c0f0-0f44-038b9d4945fb" >}}{{< resource "979a7b93-aa76-6bd1-7748-6c52206dd037" >}}  
+{{< resource "fda55870-946b-6626-b2ca-7b209823154a" >}}{{< resource "6e64472a-2d41-e342-551f-dac0fcbf7441" >}}
 
 **See the movie:**
 

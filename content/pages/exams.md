@@ -15,11 +15,11 @@ Hint: The specific heat of air, at constant volume, is 720 Joules/Kg.
 
 3\. The temperature profile of the tropical troposphere is maintained by moist convection in the form of heavily raining cumulonimbus cloud systems. The strongest updrafts lift moist air from near the surface to an altitude higher than 15km. They stay buoyant due to latent heating due to condensation in the rising, cooling updrafts. By the time they reach 15km, essentially all of their water vapor has condensed into liquid water or ice, which precipitates out of the updraft. This air spreads out to define the temperature just below the tropopause.
 
-> (a) Suppose the air starts at a near-surface pressure of _ps_ = 1000hPa, temperature of 302K, and specic humidity _q_ = 0.019 kg kg\-1. Calculate the air density at this pressure. Here and throughout this problem, ignore the virtual effect of water vapor on the air density. Using a reference pressure _p_ref = 1000hPa, what is the potential temperature ![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/exams/untitled2.jpg) of the air?
+> (a) Suppose the air starts at a near-surface pressure of _ps_ = 1000hPa, temperature of 302K, and specic humidity _q_ = 0.019 kg kg\-1. Calculate the air density at this pressure. Here and throughout this problem, ignore the virtual effect of water vapor on the air density. Using a reference pressure _p_ref = 1000hPa, what is the potential temperature {{< resource "bd6fab5c-e483-3e7b-13d8-66d72389f9ca" >}} of the air?
 > 
 > (b) Suppose this air is lifted to the top of the cumulonimbus clouds at an ambient pressure of _pt_ = 125hPa, without any external input of heat. If the water all stayed as vapor, what would its potential temperature be? How about its temperature?
 > 
-> (c) If (more realistically) the water vapor condenses into cloud in the rising air parcel, this produces condensational heating of the rising air parcel. Suppose that as the air rises up to 125hPa, all of the water vapor is condensed into liquid water and rained out. This provides a heat input _L_ per unit mass of air, where _L_ = 2.5 x 106J kg\-1 is the latent heat of condensation. This heat input takes place gradually as the air cools, but for simplicity assume that the heat is all added at a representative pressure _pq_ = 700hPa. Argue that this will increase ![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/exams/untitled2.jpg) of the rising air parcel by _Lq=(cp_∏_q )_, where ∏_q_ = _(pq ⁄ pref )K_. What will its potential temperature ![](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/exams/untitled2.jpg)_t_ now be at 125hPa? What will its temperature and density be?
+> (c) If (more realistically) the water vapor condenses into cloud in the rising air parcel, this produces condensational heating of the rising air parcel. Suppose that as the air rises up to 125hPa, all of the water vapor is condensed into liquid water and rained out. This provides a heat input _L_ per unit mass of air, where _L_ = 2.5 x 106J kg\-1 is the latent heat of condensation. This heat input takes place gradually as the air cools, but for simplicity assume that the heat is all added at a representative pressure _pq_ = 700hPa. Argue that this will increase {{< resource "bd6fab5c-e483-3e7b-13d8-66d72389f9ca" >}} of the rising air parcel by _Lq=(cp_∏_q )_, where ∏_q_ = _(pq ⁄ pref )K_. What will its potential temperature {{< resource "bd6fab5c-e483-3e7b-13d8-66d72389f9ca" >}}_t_ now be at 125hPa? What will its temperature and density be?
 
 4\. Suppose that the Earth's rotation axis were normal to the Earth-Sun line. The solar flux, measured per unit area in a plane normal to the Earth-Sun line, is _S0_. By considering the solar flux incident on the latitude belt bounded by latitudes _(Ø, Ø + dØ)_, show that _F_, the 24-hr averaged flux per unit area of the Earth's surface, varies with latitude as,
 
@@ -28,7 +28,7 @@ Hint: The specific heat of air, at constant volume, is 720 Joules/Kg.
 {{< tdopen >}}
 
 
-![Earth's surface varies with latitude.](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/exams/untitled_10.jpg)
+{{< resource "9f4331c4-0af7-c1bc-01c7-550ddb373bf2" >}}
 
 
 {{< tdclose >}}

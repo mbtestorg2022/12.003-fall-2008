@@ -10,7 +10,7 @@ Experiments: [0]({{< baseurl >}}/pages/labs/lab1) | [I]({{< baseurl >}}/pages/la
 
 The Taylor-Proudman theorem demands that vertical columns of fluid move along contours of constant fluid depth. Suppose a rotating, homogeneous fluid flows over a bump on a bottom boundary, as shown here.
 
-![Taylor column tank rotation](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfd_78.gif)
+{{< resource "ac8c8efc-8aa6-bfbc-e333-230d8f43e714" >}}
 
 Near the boundary, the flow must of course go around the bump. But the Taylor-Proudman theorem says that the flow must be the same at all heights: so, at all heights, the flow must be deflected as if the bump on the boundary extended all the way through the fluid! Thus, fluid columns act as if they were rigid columns and move along contours of constant fluid depth. We can demonstrate this behavior in the laboratory.
 
@@ -18,9 +18,9 @@ We place a cylindrical tank of water on a rotating turntable. A few obstacles, n
 
 We sprinkle black dots over the surface to mark the fluid and reduce f to 2.9 /s. Until a new equilibrium is established (the "spin-down" process takes several minutes, depending on rotation rate and water depth) the water will be moving relative to the tank. We should be able to see the dots being diverted around the obstacles in a vertically coherent way (as shown schematically below) as if the obstacles extended all the way through the water, thus creating stagnant "Taylor columns" above the obstacles.
 
-![Tank experiment setup](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC006F2.jpg)
+{{< resource "0135b128-070a-bffa-b1ac-6cecb01a88d1" >}}
 
-![experiment schematic](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfd_79.gif)
+{{< resource "225b4066-621c-6768-692d-9ba7cf021eea" >}}
 
 Below are a snapshot and a movie to show you what actually happens. It's a pretty tricky experiment - you have to practice hard to get it to work.
 
@@ -30,4 +30,4 @@ Note that the black dots below are floating on the surface. The cylinder is subm
 
 *   [Experiment VII: Taylor-Proudman Theorem]({{< baseurl >}}/resources/experiment-vii-taylor-proudman-theorem)
 
-![experiment top view](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem100.jpg)
+{{< resource "f0d69041-5666-95cf-2ea1-54a8c3378674" >}}

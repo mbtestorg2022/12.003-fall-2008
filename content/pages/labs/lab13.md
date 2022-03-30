@@ -17,21 +17,21 @@ The apparatus is shown in the figure below. A tank with a false sloping bottom i
 
 It is left to settle down for 1/2 hour or so. Dye can then be used to help map out the circulation: holes bored in the lid can be used to inject dye and visualize the circulation beneath, as in the picture below.
 
-![lab 13 schematic](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/ekman.jpg)![start of experiment](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/31.jpg)
+{{< resource "070bc201-9f80-9839-2086-b6694eac8424" >}}{{< resource "afda57e6-2ae7-29a2-6f63-04efb96bbb83" >}}
 
 The varying depth - in the direction parallel to the rotation vector - mimics the variation of the ocean depth measured in the direction parallel to the rotation vector on the sphere (see figure below). The shallow end of the tank is analogous to the poleward side of the ocean basin (why?) and the deep end to the tropical side.
 
-![lab 13 schematics](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/TAYLOR.jpg)
+{{< resource "a7193c10-760a-2a4e-0a95-e07a7f449424" >}}
 
 The stress applied by the lid to the water is analogous to the wind stress on the ocean surface. With clockwise differential rotation of the lid, fluid is drawn inwards in the Ekman layer just under the lid and pumped downwards into the interior, mimicking the pumping down of water in subtropical gyres by the action of the winds, as sketched below.
 
-![lab 13 schematics](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/Wdpump.jpg)
+{{< resource "86d1ecfc-b004-3468-037c-928ca1be136c" >}}
 
 We see a clockwise (anticyclonic) gyre in the water with interior flow towards the deep end of the tank ('southwards'), as the Ekman pumping drives fluid columns to the deeper end of the tank. This flow (except near the lid) will be independent of depth. A strong ('northward') return flow forms at the &grave;&grave;western'' boundary; this is the tank's equivalent of the Gulf Stream.
 
 Have a look at the sequence of pictures and the movie loop below:
 
-![start of experiment](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/31.jpg) ![lab 13 image 2](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/4.jpg) ![lab 13 image 3](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/6.jpg)
+{{< resource "afda57e6-2ae7-29a2-6f63-04efb96bbb83" >}} {{< resource "5f5b1209-162f-3a56-b855-ed5ab427e6ac" >}} {{< resource "9b6f9816-a8c4-132b-7f99-1361b2f17957" >}}
 
 **See the movie:**
 

@@ -12,7 +12,7 @@ For a detailed description of this experiment, click [PDF]({{< baseurl >}}/resou
 
 Everyone is familiar with the swirl and gurgling sound of water flowing down a drain. In this laboratory experiment we explore this problem quantitatively, and draw out the strong parallels between it and the large scale flow in the atmosphere and ocean. We rotate a cylinder about its vertical axis. The cylinder has a circular drain hole in the center of its bottom. Water enters through a diffuser on the outer wall of the cylinder. The water is supplied by the diffuser at a constant rate so that a steady state can be set up in which the flow down the central drain exactly balances the inflow from the outer edge.
 
-![radial inflow apparatus schematic](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfd_ii13.gif)
+{{< resource "29ffb0cc-f3d0-a906-237c-96436a10bef9" >}}
 
 The swirling flow set up exhibits a number of important principles of rotating fluid dynamics - conservation of angular momentum, geostrophic and cyclostrophic balance, and Ekman layers.
 
@@ -31,27 +31,27 @@ The entire apparatus is then mounted on a turntable.
 
 Side view:
 
-![side view of apparatus](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC006F1.jpg) 
+{{< resource "7108b17e-b4fb-87ec-b1e9-f0a633e01313" >}} 
 
 Top view:
 
-![top view of appartus](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/DzlItem130.jpg)
+{{< resource "5ad5ac43-aa56-ec47-afa6-6f22c047ffa2" >}}
 
 Typical flow patterns
 ---------------------
 
 When the apparatus is not rotating, water flows radially inward from the diffuser to the drain in the middle. When the apparatus is rotating, however, water in the interior conserves angular momentum and, in so doing, acquires a vigorous swirling motion. The water spirals inward, as sketched in the diagram. The centrifugal force directed radially outward is balanced by a pressure gradient force directed radially inward. This pressure gradient force is set up by the free surface tilting relative to the horizontal.
 
-![flow patterns](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/gfd_ii14.gif)
+{{< resource "3b475642-e5d0-6b94-71c4-f13d8dfa52ff" >}}
 
 **SLOW rotation movie:** 
 
 *   [Experiment III: Slow Radial Inflow]({{< baseurl >}}/resources/experiment-iii-slow-radial-inflow)
 
-![slow rotation](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC009F.jpg)
+{{< resource "92cb550d-e59b-258c-0da6-15beb9b87fb9" >}}
 
 **FAST rotation movie:**
 
 *   [Experiment III: Fast Radial Inflow]({{< baseurl >}}/resources/experiment-iii-fast-radial-inflow)
 
-![fast rotation](/courses/earth-atmospheric-and-planetary-sciences/12-003-atmosphere-ocean-and-climate-dynamics-fall-2008/labs/MVC004F1.jpg)
+{{< resource "f5bec7cc-aae2-90b6-9a25-f0440fb9f81d" >}}

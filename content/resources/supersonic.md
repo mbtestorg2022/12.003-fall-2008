@@ -13,6 +13,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 15f39ab3-4a66-34ac-748a-b58a5de103e2
 resourcetype: Image
 title: supersonic
 uid: e075a149-629f-b5d8-9d67-39992f7be570
